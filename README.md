@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jayaram-max/leet-code-interview/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Jayaram-max/leet-code-interview/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -42,10 +43,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jayaram-max/leet-code-interview/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Jayaram-max/leet-code-interview/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Jayaram-max/leet-code-interview/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Jayaram-max/leet-code-interview/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jayaram-max/leet-code-interview/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
