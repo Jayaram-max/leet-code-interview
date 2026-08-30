@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jayaram-max/leet-code-interview/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0567-permutation-in-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayaram-max/leet-code-interview/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Jayaram-max/leet-code-interview/tree/master/0020-valid-parentheses) |
+| [0567-permutation-in-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayaram-max/leet-code-interview/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Jayaram-max/leet-code-interview/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0567-permutation-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -54,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayaram-max/leet-code-interview/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
