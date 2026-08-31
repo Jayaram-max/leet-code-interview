@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayaram-max/leet-code-interview/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0209-minimum-size-subarray-sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/Jayaram-max/leet-code-interview/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Jayaram-max/leet-code-interview/tree/master/0739-daily-temperatures) |
 ## Math
@@ -57,5 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayaram-max/leet-code-interview/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
