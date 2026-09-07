@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jayaram-max/leet-code-interview/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayaram-max/leet-code-interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayaram-max/leet-code-interview/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayaram-max/leet-code-interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/Jayaram-max/leet-code-interview/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Jayaram-max/leet-code-interview/tree/master/0739-daily-temperatures) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayaram-max/leet-code-interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
