@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayaram-max/leet-code-interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/Jayaram-max/leet-code-interview/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/Jayaram-max/leet-code-interview/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Jayaram-max/leet-code-interview/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Jayaram-max/leet-code-interview/tree/master/0912-sort-an-array) |
 ## Math
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayaram-max/leet-code-interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Jayaram-max/leet-code-interview/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
