@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Jayaram-max/leet-code-interview/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Jayaram-max/leet-code-interview/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Jayaram-max/leet-code-interview/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/Jayaram-max/leet-code-interview/tree/master/0933-number-of-recent-calls) |
 ## Array
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayaram-max/leet-code-interview/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayaram-max/leet-code-interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Jayaram-max/leet-code-interview/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Jayaram-max/leet-code-interview/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Jayaram-max/leet-code-interview/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Jayaram-max/leet-code-interview/tree/master/0739-daily-temperatures) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Jayaram-max/leet-code-interview/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
