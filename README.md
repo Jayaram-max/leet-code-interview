@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jayaram-max/leet-code-interview/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jayaram-max/leet-code-interview/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayaram-max/leet-code-interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jayaram-max/leet-code-interview/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Jayaram-max/leet-code-interview/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayaram-max/leet-code-interview/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Jayaram-max/leet-code-interview/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Jayaram-max/leet-code-interview/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
