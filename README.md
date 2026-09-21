@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayaram-max/leet-code-interview/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Jayaram-max/leet-code-interview/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Jayaram-max/leet-code-interview/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jayaram-max/leet-code-interview/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0151-reverse-words-in-a-string) |
