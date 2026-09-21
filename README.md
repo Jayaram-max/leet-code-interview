@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayaram-max/leet-code-interview/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Jayaram-max/leet-code-interview/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jayaram-max/leet-code-interview/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jayaram-max/leet-code-interview/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jayaram-max/leet-code-interview/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayaram-max/leet-code-interview/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Jayaram-max/leet-code-interview/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Jayaram-max/leet-code-interview/tree/master/0232-implement-queue-using-stacks) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jayaram-max/leet-code-interview/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jayaram-max/leet-code-interview/tree/master/0032-longest-valid-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Jayaram-max/leet-code-interview/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Jayaram-max/leet-code-interview/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Jayaram-max/leet-code-interview/tree/master/0509-fibonacci-number) |
 ## Recursion
