@@ -220,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jayaram-max/leet-code-interview/tree/master/0098-validate-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Jayaram-max/leet-code-interview/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
