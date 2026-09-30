@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Jayaram-max/leet-code-interview/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jayaram-max/leet-code-interview/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Jayaram-max/leet-code-interview/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/Jayaram-max/leet-code-interview/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Jayaram-max/leet-code-interview/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayaram-max/leet-code-interview/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jayaram-max/leet-code-interview/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/Jayaram-max/leet-code-interview/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Jayaram-max/leet-code-interview/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Jayaram-max/leet-code-interview/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jayaram-max/leet-code-interview/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Jayaram-max/leet-code-interview/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Geometry
 |  |
