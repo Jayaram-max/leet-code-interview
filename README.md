@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Jayaram-max/leet-code-interview/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Jayaram-max/leet-code-interview/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Jayaram-max/leet-code-interview/tree/master/0056-merge-intervals) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayaram-max/leet-code-interview/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayaram-max/leet-code-interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jayaram-max/leet-code-interview/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jayaram-max/leet-code-interview/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayaram-max/leet-code-interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayaram-max/leet-code-interview/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Jayaram-max/leet-code-interview/tree/master/0704-binary-search) |
