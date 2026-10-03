@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Jayaram-max/leet-code-interview/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jayaram-max/leet-code-interview/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Jayaram-max/leet-code-interview/tree/master/0031-next-permutation) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayaram-max/leet-code-interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0567-permutation-in-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Jayaram-max/leet-code-interview/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Jayaram-max/leet-code-interview/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Jayaram-max/leet-code-interview/tree/master/0056-merge-intervals) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jayaram-max/leet-code-interview/tree/master/0150-evaluate-reverse-polish-notation) |
