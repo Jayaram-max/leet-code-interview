@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Jayaram-max/leet-code-interview/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Jayaram-max/leet-code-interview/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Jayaram-max/leet-code-interview/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Jayaram-max/leet-code-interview/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayaram-max/leet-code-interview/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Jayaram-max/leet-code-interview/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/Jayaram-max/leet-code-interview/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Jayaram-max/leet-code-interview/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Jayaram-max/leet-code-interview/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0567-permutation-in-string) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Jayaram-max/leet-code-interview/tree/master/0178-rank-scores) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Jayaram-max/leet-code-interview/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
