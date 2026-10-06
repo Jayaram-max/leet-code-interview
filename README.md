@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jayaram-max/leet-code-interview/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Jayaram-max/leet-code-interview/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/Jayaram-max/leet-code-interview/tree/master/0147-insertion-sort-list) |
 ## Two Pointers
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Jayaram-max/leet-code-interview/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jayaram-max/leet-code-interview/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Jayaram-max/leet-code-interview/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Jayaram-max/leet-code-interview/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jayaram-max/leet-code-interview/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayaram-max/leet-code-interview/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayaram-max/leet-code-interview/tree/master/0167-two-sum-ii-input-array-is-sorted) |
